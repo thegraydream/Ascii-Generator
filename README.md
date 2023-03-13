@@ -3,7 +3,9 @@ Free word to ascii converter 🛠️
 
 # Requirements
 • Python 3+
+
 • Google Chrome
+
 • Internet
 
 # How to install it
