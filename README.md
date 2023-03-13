@@ -1,6 +1,11 @@
 # Ascii-Generator
 Free word to ascii converter 🛠️
 
+# Requirements
+• Python 3+
+• Google Chrome
+• Internet
+
 # How to install it
 First of all thank you for downloading my word converter in ascii, to install it is very simple you just have to download it, extract it, then launch the file **"install.bat"** (python is required), it will install all the modules necessary to the functioning of the bot.
 Once this is done you have to click on the file **"start.bat"**.
